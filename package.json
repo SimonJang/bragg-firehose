@@ -1,0 +1,35 @@
+{
+	"name": "bragg-firehose",
+	"version": "0.0.0",
+	"description": "bragg middleware for Firehose transformation trigger",
+	"license": "MIT",
+	"repository": "SimonJang/bragg-firehose",
+	"author": {
+		"name": "Simon",
+		"email": "simon.jang.contact@gmail.com",
+		"url": "github.com/SimonJang"
+	},
+	"engines": {
+		"node": ">=4"
+	},
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"AWS",
+		"Kinesis",
+		"Firehose",
+		"Lambda",
+		"bragg",
+		"middleware"
+	],
+	"dependencies": {},
+	"devDependencies": {
+		"ava": "^0.20.0",
+		"nyc": "^13.0.1",
+		"xo": "^0.18.2"
+	}
+}
