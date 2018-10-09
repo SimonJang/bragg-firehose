@@ -1,6 +1,6 @@
 {
 	"name": "bragg-firehose",
-	"version": "0.0.0",
+	"version": "0.0.1-0",
 	"description": "bragg middleware for Firehose transformation trigger",
 	"license": "MIT",
 	"repository": "SimonJang/bragg-firehose",
